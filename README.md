@@ -65,5 +65,21 @@ This project is a **C++-based daily sales recording system** designed for small 
 - Designed for educational and small business use.
 - Does **not** use any external libraries — just standard C++.
 
-## 📦 Folder Structure
+## ✅ Future Improvements
+
+- Persistent storage with file read/write
+- Export reports to `.txt` or `.csv`
+- Product inventory system
+- Profit/loss graphs with external library (e.g., SFML)
+
+## 👨‍💻 Author
+
+- **Name:** [Falih Elmanda]  
+- **GitHub:** [Elmanda1]  
+- **Date:** November 2024  
+- **Language:** C++
+
+---
+
+**Made with ❤️ for small businesses and learners**
 
