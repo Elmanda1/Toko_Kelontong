@@ -1,6 +1,6 @@
-# 📊 Daily Sales Management System (Warung Version)
+# 📊 Daily Sales Management System (Toko Kelontong Version)
 
-This project is a **C++-based daily sales recording system** designed for small stores (known as *warungs* in Indonesia). It helps users track daily sales, manage product data, calculate net savings, and navigate through daily transactions.
+This project is a **C++-based daily sales recording system** designed for small stores (known as *toko kelontong* in Indonesia). It helps users track daily sales, manage product data, calculate net savings, and navigate through daily transactions.
 
 ## 🚀 Features
 
